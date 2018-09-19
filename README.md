@@ -21,6 +21,7 @@ RobotFramework-Document-Chinese-Translation
 | Get Length | |
 | Log （不完整） | |
 | Run Keyword And Return Status |  |
+| Run Keyword If | |
 | Set Variable | |
 | Should Contain | |
 | Should Not Contain | |
