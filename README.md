@@ -22,6 +22,7 @@ RobotFramework-Document-Chinese-Translation
 | Log （不完整） | |
 | Run Keyword And Return Status |  |
 | Set Variable | |
+| Should Contain | |
 | Should Not Contain | |
 | Sleep | |
 | | |
