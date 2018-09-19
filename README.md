@@ -10,33 +10,124 @@ RobotFramework-Document-Chinese-Translation
 
 ### BuiltIn
 
-##### Total Keyword  8/103  (7.77%)
+##### Total Keywords  11/103  (10.67%)
 
-Catenate
+| 关键词   | 备注 |
+| -------- | ---- |
+| Catenate |      |
+| Create List |      |
+| Evaluate |    |
+| Exit For Loop If | |
+| Get Length | |
+| Log （不完整） | |
+| Run Keyword And Return Status |  |
+| Set Variable | |
+| Should Not Contain | |
+| Sleep | |
+| | |
+| | |
+| Wait Until Keyword Succeeds | |
 
-Create List
 
-Evaluate
 
-Exit For Loop If
 
-Log （不完整）
 
-Run Keyword And Return Status
 
-Set Variable
 
-Sleep
+
+
+
+
+
 
 
 
 ### Collections
 
-#### Total Keyword  1/43  (2.32%)
+#### Total Keywords  1/43  (2.32%)
 
-Append To List
+| 关键词         | 备注 |
+| -------------- | ---- |
+| Append To List |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
 
 
+
+### String
+
+#### Total Keywords   1/30  (3.33%)
+
+| 关键词         | 备注 |
+| -------------- | ---- |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+|                |      |
+| Split To Lines |      |
+|                |      |
 
 
 
