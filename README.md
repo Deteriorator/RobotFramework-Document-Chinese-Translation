@@ -10,26 +10,25 @@ RobotFramework-Document-Chinese-Translation
 
 ### BuiltIn
 
-##### Total Keywords  14/103  (13.59%)
+##### Total Keywords  15/103  (16.56%)
 
 | 序号 | 关键词   | 备注 |
-| -------- | ---- | ---- |
-| 1 | Catenate |      |
-| 2 | Create List |      |
-| 3 | Evaluate |    |
-| 4 | Exit For Loop If | |
-| 5 | Get Length | |
-| 6 | Log | 不完整 |
-| 7 | Run Keyword And Return Status |  |
-| 8 | Run Keyword If | |
-| 9 | Set Variable | |
-| 10 | Set Variable If | |
-| 11 | Should Contain | |
-| 12 | Should Not Contain | |
-| 13 | Sleep | |
-| | | |
-| | | |
-| 14 | Wait Until Keyword Succeeds | |
+| -------- | ---- | -------- |
+|  | Catenate |      |
+|  | Create List |      |
+|  | Evaluate |    |
+|  | Exit For Loop If | |
+|  | Fail | |
+|  | Get Length | |
+|  | Log | 不完整 |
+|  | Run Keyword And Return Status |  |
+|  | Run Keyword If | |
+|  | Set Variable | |
+|  | Set Variable If | |
+|  | Should Contain | |
+|  | Should Not Contain | |
+|  | Sleep | |
+|  | Wait Until Keyword Succeeds | |
 
 
 
@@ -98,39 +97,40 @@ RobotFramework-Document-Chinese-Translation
 
 ### String
 
-#### Total Keywords   1/30  (3.33%)
+#### Total Keywords   3/30  (10.00%)
 
-| 序号 | 关键词         | 备注 |
-| ---- | -------------- | ---- |
-| 1    |                |      |
-| 2    |                |      |
-| 3    |                |      |
-| 4    |                |      |
-| 5    |                |      |
-| 6    |                |      |
-| 7    |                |      |
-| 8    |                |      |
-| 9    |                |      |
-| 10   |                |      |
-| 11   |                |      |
-| 12   |                |      |
-| 13   |                |      |
-| 14   |                |      |
-| 15   |                |      |
-| 16   |                |      |
-| 17   |                |      |
-| 18   |                |      |
-| 19   |                |      |
-| 20   |                |      |
-| 21   |                |      |
-| 22   |                |      |
-| 23   |                |      |
-| 24   |                |      |
-| 25   |                |      |
-| 26   |                |      |
-| 27   |                |      |
-| 28   | Split To Lines |      |
-| 29   |                |      |
+| 序号 | 关键词               | 备注 |
+| ---- | -------------------- | ---- |
+| 1    | Convert To Lowercase |      |
+| 2    | Convert To Uppercase |      |
+| 3    |                      |      |
+| 4    |                      |      |
+| 5    |                      |      |
+| 6    |                      |      |
+| 7    |                      |      |
+| 8    |                      |      |
+| 9    |                      |      |
+| 10   |                      |      |
+| 11   |                      |      |
+| 12   |                      |      |
+| 13   |                      |      |
+| 14   |                      |      |
+| 15   |                      |      |
+| 16   |                      |      |
+| 17   |                      |      |
+| 18   |                      |      |
+| 19   |                      |      |
+| 20   |                      |      |
+| 21   |                      |      |
+| 22   |                      |      |
+| 23   |                      |      |
+| 24   |                      |      |
+| 25   |                      |      |
+| 26   |                      |      |
+| 27   |                      |      |
+| 28   |                      |      |
+| 29   | Split To Lines       |      |
+| 30   |                      |      |
 
 
 
