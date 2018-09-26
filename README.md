@@ -10,7 +10,7 @@ RobotFramework-Document-Chinese-Translation
 
 ### BuiltIn
 
-##### Total Keywords  15/103  (16.56%)
+##### Total Keywords  17/103  (16.50%)
 
 | 序号 | 关键词   | 备注 |
 | -------- | ---- | -------- |
@@ -25,6 +25,8 @@ RobotFramework-Document-Chinese-Translation
 |  | Run Keyword If | |
 |  | Set Variable | |
 |  | Set Variable If | |
+| | Should Be Empty | |
+| | Should Be Equal | |
 |  | Should Contain | |
 |  | Should Not Contain | |
 |  | Sleep | |
